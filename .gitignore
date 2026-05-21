@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.py[cod]
+*.pdf
+statement_*.pdf
+
+# Python virtualenv (create locally: python -m venv venv)
+venv/
+.venv/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
